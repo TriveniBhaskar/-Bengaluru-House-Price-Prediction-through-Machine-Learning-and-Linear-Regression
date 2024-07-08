@@ -1,0 +1,2 @@
+# -Bengaluru-House-Price-Prediction-through-Machine-Learning-and-Linear-Regression
+Leveraged advanced methodologies including cost prediction and Lasso regression to analyze real-time data for precise housing price forecasts in Bengaluru's dynamic market. Achieved a consistent 90% accuracy rate using Linear Regression and key metrics, based on thorough analysis of several hundred real-world datasets.
